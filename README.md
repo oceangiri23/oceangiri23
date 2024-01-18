@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Giri</h1>
 <h3 align="center">Passionate Developer Building Innovative Solutions</h3>
 
-- 🌱 I’m currently learning **MERN Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **oceangiri5656@gmail.com**
 
