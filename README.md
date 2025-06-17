@@ -3,7 +3,7 @@
  <!-- <img src="https://komarev.com/ghpvc/?username=oceangiri23&label=Profile%20views&color=0e75b6&style=flat" alt="oceangiri23" /> </p>  -->
 - 🌱 I’m currently learning **AI/ML**
 
-- 📫 How to reach me **oceangiri5656@gmail.com**
+- 📫 How to reach me **girisagar2323@gmail.com**
 
 - ⚡ Fun fact **We technically have 2 minutes to live but every time we take a breath, it resets the timer.**
 
