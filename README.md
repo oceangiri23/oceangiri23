@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar Giri</h1>
-<h3 align="center">Passionate Developer Building Innovative Solutions</h3>
+<h3 align="center">Advancing Scientific Discovery Through Applied AI Research</h3>
  <!-- <img src="https://komarev.com/ghpvc/?username=oceangiri23&label=Profile%20views&color=0e75b6&style=flat" alt="oceangiri23" /> </p>  -->
 - 🌱 I’m currently learning **AI/ML**
 
